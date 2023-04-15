@@ -3,7 +3,7 @@
 
 # About Me
 - 😃 I'm Vinicius Guilhen, Interested in tech, aspiring a back-end JAVA developer.
-- 🔭 I'm currently working on Spring boot projects.
+- 🔭 I'm currently working on Spring Framework projects.
 - 🌱 I’m currently learning AWS and RDS.
 
 # Tech Stack
